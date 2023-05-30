@@ -1,0 +1,17 @@
+/*
+	 @sri
+	Free for personal and commercial use under the CCA 3.0 license (license)
+*/
+
+/* Header */
+
+	body.is-preload #header.alt > * {
+		opacity: 1;
+	}
+
+	body.is-preload #header.alt .logo {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+	}
