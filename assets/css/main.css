@@ -98,11 +98,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #ffffff;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #ffffff 15%, #ffffff 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #ffffff 15%, #ffffff 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #ffffff 15%, #ffffff 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #ffffff 15%, #ffffff 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -119,7 +119,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #000000;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -178,6 +178,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		color: #000000;
 	}
 
 		p.content {
@@ -314,7 +315,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #070707;
 	}
 
 	blockquote {
@@ -2462,6 +2463,7 @@ input, select, textarea {
 
 		dl dd {
 			margin-left: 2em;
+			color: #000000;
 		}
 
 		dl.alt dt {
@@ -2487,7 +2489,7 @@ input, select, textarea {
 	}
 
 	dl dt {
-		color: #ffffff;
+		color: #000000;
 	}
 
 /* Actions */
